@@ -185,3 +185,14 @@ Amazon-Sales-Dashboard
 **Ganesh Jagtap**
 
 Aspiring **Data Analyst**
+
+---
+
+## Languages & Tools Used
+
+Power BI ███████████████████████ 60%  
+DAX ████████████ 25%  
+Power Query (M) █████ 10%  
+Excel ██ 5% 
+
+---
